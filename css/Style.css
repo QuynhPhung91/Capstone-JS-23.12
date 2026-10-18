@@ -483,6 +483,6 @@ body.darkMode {
 .modal-backdrop {
   position: relative;
 }
-.modal-backdrop .show{
+.modal-backdrop .show {
   opacity: 0;
 }
